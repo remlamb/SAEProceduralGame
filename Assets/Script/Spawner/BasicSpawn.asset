@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b2b761ffb040ea4eaeb7260dbf3691e, type: 3}
+  m_Name: BasicSpawn
+  m_EditorClassIdentifier: 
+  _enemyListFirstType:
+  - {fileID: 7790790640124846862, guid: 5ef8f8667bec7954d89032ca410b092a, type: 3}
+  - {fileID: 585724047473466179, guid: 8142cf3fdedd464468c071fdb9ad9ccf, type: 3}
+  _percentageFirstType: 60
+  _enemyListSecondType:
+  - {fileID: 3285084465681078152, guid: 95af6246b841982489d79013bbc10102, type: 3}
+  - {fileID: 8558470994294664825, guid: 2952531af9c93084db9772b8bf18120c, type: 3}
+  - {fileID: 3192299050442505518, guid: 289915659a0a8c74a88e662b14cddcdf, type: 3}
+  _percentageSecondType: 30
+  _enemyListThirdType:
+  - {fileID: 1011189097125679400, guid: c215df3cf12e4a340841cc082ba56cdb, type: 3}
+  _percentageThirdType: 10
